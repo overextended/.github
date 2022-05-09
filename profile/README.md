@@ -1,5 +1,5 @@
 <div align="center">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelindat&layout=compact&theme=react&hide_border=true"/>
+        <a href="https://github.com/thelindat"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelindat&layout=compact&theme=react&hide_border=true"/></a>
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LukeWasTakenn&layout=compact&theme=react&hide_border=true"/>
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dunak-debug&layout=compact&theme=react&hide_border=true"/>
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DokaDoka&layout=compact&theme=react&hide_border=true"/>
