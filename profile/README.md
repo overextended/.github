@@ -18,4 +18,4 @@ https://overextended.github.io/docs/
   </a></p>
 
 ## Tebex codes
-[Click here for a list of sponsored stores](./creatorcodes.md) to support us and receive a discount on all purchases, up to 15%.
+[Click here for a list of sponsored stores](./profile/creatorcodes.md) to support us and receive a discount on all purchases, up to 15%.
