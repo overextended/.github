@@ -18,4 +18,4 @@ https://overextended.dev/
   </a></p>
 
 ## Support us
-[Click here](https://overextended.dev/#support-our-team) to directly support us through Ko-fi, or view Tebex Creator Codes to receive a discount on purchases made with affiliate stores, up to 15%.
+[Click here](https://overextended.dev/#support-our-team) to directly support us through Ko-fi, or view Tebex Creator Codes to receive a discount on purchases made with affiliate stores, up to 20%.
