@@ -1,7 +1,5 @@
 ## About us
-~~Overextended is a small group working to create open-source resources for FiveM, with a focus on quality, security, performance and stability.~~
-
-Fuck FiveM, fuck Cfx.
+Overextended was a small group working to create open-source resources for FiveM, with a focus on quality, security, performance and stability.
 
 ## Documentation
 https://overextended.dev/
