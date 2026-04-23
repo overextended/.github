@@ -1,14 +1,12 @@
-Overextended was a small hobbyist team that focused on providing **free** high-quality, secure, and stable open-source resources for FiveM.
+Established in 2021, Overextended began as a collaborative effort to develop high-quality, secure, free, and open-source resources for FiveM.
 
-We are no longer actively maintaining our resources, but you can find maintained versions and ongoing support at [CommunityOx](https://github.com/CommunityOx).
+Though no longer active, to ensure ongoing support and critical security updates can be delivered in a timely manner we are collaborating with [CommunityOx](https://discord.com/invite/3HxWwbXzxf).
 
 ## Documentation
-- https://fivem.overextended.dev/
+- https://overextended.dev/
 
 ## Support us
-While we no longer actively maintain our resources, we’re proud of the work we've done and grateful for the community that supported it.
-
-If you'd like to show appreciation for our past contributions, you can support us directly on Ko-fi:
+If you'd like to show appreciation for our work, you can support us directly on Ko-fi:
 - https://ko-fi.com/thelindat
 - https://ko-fi.com/lukewastaken
 
