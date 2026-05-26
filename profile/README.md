@@ -1,24 +1,17 @@
-Established in 2021, Overextended began as a collaborative effort to develop high-quality, secure, free, and open-source resources for FiveM.
+Established in 2021, Overextended began as a collaborative effort to develop high-quality, secure, free, and open-source resources for FiveM. While the project was officially discontinued in 2025, several community members continued maintaining key resources such as oxmysql, ox_lib, ox_inventory, and ox_core to ensure their stability and usability.
 
-Though no longer active, to ensure ongoing support and critical security updates can be delivered in a timely manner we are collaborating with [CommunityOx](https://discord.com/invite/3HxWwbXzxf).
+Development resumed in 2026 with a renewed focus on collaboration with the community. This shift is intended to provide ongoing support and deliver critical security updates in a timely manner.
+
+Join the [CommunityOx](https://discord.overextended.dev) discord for community-driven support and discussions.
 
 ## Documentation
 - https://overextended.dev/
 
-## Support us
-If you'd like to show appreciation for our work, you can support us directly on Ko-fi:
-- https://ko-fi.com/thelindat
-- https://ko-fi.com/lukewastaken
+## Support the Project
+Overextended's projects are developed and maintained in our spare time, and every bit of support makes a difference. If you appreciate our work and want to help us keep improving and releasing updates, you can support members of the team below.
+- https://overextended.dev/#support-the-project
 
-## Creator codes
+## Affiliates
 
-You can also use one of our Creator Codes on affiliated tebex stores to get up to 30% off your purchase and support us in the process:
-- https://overextended.dev/#creator-codes
-
-## Fivemanage
-
-[Fivemanage](https://fivemanage.com/?ref=overextended) is a cloud management service tailored for game servers, offering a range of features to facilitate easier management and administration of your FiveM server.
-
-Their services includes a free plan with limited media storage space, along with several paid plans designed to accommodate larger servers requiring more extensive storage and logging capabilities.
- 
-[Get started with Fivemanage](https://fivemanage.com/?ref=overextended) and use code `OX10` for 10% off your subscription - forever!
+- [Prism Host](https://overextended.dev/resources/prism-host)
+- [Tebex Creators](https://overextended.dev/resources/creators)
