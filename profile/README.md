@@ -14,4 +14,4 @@ Overextended's projects are developed and maintained in our spare time, and ever
 ## Affiliates
 
 - [Prism Host](https://overextended.dev/resources/prism-host)
-- [Tebex Creators](https://overextended.dev/resources/creators)
+- [Tebex Creators](https://overextended.dev/resources/tebex-creators)
