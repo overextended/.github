@@ -1,17 +1,14 @@
-Established in 2021, Overextended began as a collaborative effort to develop high-quality, secure, free, and open-source resources for FiveM. While the project was officially discontinued in 2025, several community members continued maintaining key resources such as oxmysql, ox_lib, ox_inventory, and ox_core to ensure their stability and usability.
+Overextended creates open-source FiveM resources focused on security, performance, and long-term maintainability. Powering over 30,000 communities globally, our goal is to provide dependable building blocks that make server development simpler, safer, and more scalable.
 
-Development resumed in 2026 with a renewed focus on collaboration with the community. This shift is intended to provide ongoing support and deliver critical security updates in a timely manner.
+[![](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/documentation_learn.svg)](https://overextended.dev)
+[![](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg)](https://discord.overextended.dev)
+[<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="48" />](https://ko-fi.com/thelindat)
 
-Join the [CommunityOx](https://discord.overextended.dev) discord for community-driven support and discussions.
-
-## Documentation
-- https://overextended.dev/
-
-## Support the Project
-Overextended's projects are developed and maintained in our spare time, and every bit of support makes a difference. If you appreciate our work and want to help us keep improving and releasing updates, you can support members of the team below.
-- https://overextended.dev/#support-the-project
 
 ## Affiliates
 
-- [Prism Host](https://overextended.dev/resources/prism-host)
-- [Tebex Creators](https://overextended.dev/resources/tebex-creators)
+**[Fivemanage](https://refer.fivemanage.com/overextended)** empowers FiveM communities with seamless file management, secure asset hosting, and powerful tools to improve your server.
+
+**[Prism Host](https://prism-host.com/overextended)** delivers fast, stable, and scalable server hosting built for serious communities and peak performance. Use code `OVEREXTENDED` to get 15% off recurring payments excluding domains and dedicated servers.
+
+If you're looking for premium FiveM resources and assets by trusted creators head to our [Tebex Creators](https://overextended.dev/docs/resources/tebex-creators) page.
