@@ -1,7 +1,5 @@
 name: "Bug Report"
 description: "Create a report to help us resolve an issue."
-title: ""
-labels: []
 type: Bug
 body:
   - type: textarea
