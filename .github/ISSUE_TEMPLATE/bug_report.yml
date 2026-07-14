@@ -27,9 +27,6 @@ body:
     attributes:
       label: "Additional Context"
       description: "Any additional information to help explain the issue, including screenshots or videos."
-      value: |
-        ![DESCRIPTION](LINK.png)
-      render: bash
     validations:
       required: false
   - type: input
