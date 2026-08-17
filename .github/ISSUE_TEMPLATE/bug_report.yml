@@ -30,11 +30,6 @@ body:
     validations:
       required: false
   - type: input
-    id: server-listing
-    attributes:
-      label: "Server Listing"
-      placeholder: "https://servers.fivem.net/servers/detail/xxxxxxx"
-  - type: input
     id: server-version
     attributes:
       label: "FXServer Version"
@@ -45,6 +40,7 @@ body:
     id: client-version
     attributes:
       label: "Client Version"
+      multiple: true
       options:
         - Release
         - Beta
@@ -55,11 +51,19 @@ body:
     id: game
     attributes:
       label: "Game"
+      multiple: true
       options:
-       - FiveM
+       - FiveM (Legacy)
+       - FiveM (Enhanced)
        - RedM
     validations:
       required: true
+  - type: input
+    id: server-listing
+    attributes:
+      label: "Server Listing"
+      description: "This may help us investigate if the issue is related to certain resources."
+      placeholder: "https://servers.fivem.net/servers/detail/xxxxxxx"
   - type: checkboxes
     id: checklist
     attributes:
