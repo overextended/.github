@@ -1,0 +1,47 @@
+name: "Feature Request"
+description: "Suggest an idea or improvement for the resource."
+type: Feature
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem"
+      description: "What problem would this feature solve? Describe the use case or limitation you are encountering."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Proposed Solution"
+      description: "Describe the feature or change you would like to see."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternatives"
+      description: "Describe any alternative solutions, workarounds, or existing features you have considered."
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional Context"
+      description: "Include any additional information, examples, screenshots, videos, or references that may help explain the request."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I have searched existing issues to make sure this has not already been requested."
+          required: true
+        - label: "I believe this feature would be generally useful rather than only relevant to my specific setup."
+          required: false
+    validations:
+      required: false
