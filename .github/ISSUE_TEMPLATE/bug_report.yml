@@ -12,14 +12,13 @@ body:
   - type: textarea
     id: reprod
     attributes:
-      label: "Minimal Reproducible Example"
+      label: "Reproduction Details"
       description: "An example of steps, code, or other minimal requirements to reproduce the issue."
       value: |
         1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'
         4. See error
-      render: bash
     validations:
       required: true
   - type: textarea
@@ -30,6 +29,14 @@ body:
     validations:
       required: false
   - type: input
+  id: resource-version
+  attributes:
+    label: "Resource Version"
+    description: "The version of the resource being used. You can find this in the fxmanifest."
+    placeholder: "v1.2.3"
+  validations:
+    required: true
+  - type: input
     id: server-version
     attributes:
       label: "FXServer Version"
@@ -37,9 +44,9 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: client-version
+    id: client-channel
     attributes:
-      label: "Client Version"
+      label: "Client Channel"
       multiple: true
       options:
         - Release
@@ -62,16 +69,16 @@ body:
     id: server-listing
     attributes:
       label: "Server Listing"
-      description: "This may help us investigate if the issue is related to certain resources."
+      description: "If the issue occurs on a publicly accessible server, provide its server listing so we can investigate the environment."
       placeholder: "https://servers.fivem.net/servers/detail/xxxxxxx"
   - type: checkboxes
     id: checklist
     attributes:
       label: "Checklist"
       options:
-      - label: "I am certain this issue is not related to a third-party script"
+      - label: "I have verified that the issue persists without unrelated third-party resources."
         required: false
-      - label: "I am using an official (unmodified) release build"
+      - label: "I have verified that the issue persists when using the latest official release version of the resource."
         required: false
     validations:
       required: false
