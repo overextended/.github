@@ -1,0 +1,20 @@
+name: "Documentation"
+description: "Report missing, incorrect, or unclear documentation."
+type: Task
+
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: "Documentation Issue"
+      description: "Describe what is missing, incorrect, or unclear."
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Suggested Improvement"
+      description: "If possible, describe what the documentation should say or provide an example."
+    validations:
+      required: false
