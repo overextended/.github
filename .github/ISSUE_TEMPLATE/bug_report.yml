@@ -29,13 +29,13 @@ body:
     validations:
       required: false
   - type: input
-  id: resource-version
-  attributes:
-    label: "Resource Version"
-    description: "The version of the resource being used. You can find this in the fxmanifest."
-    placeholder: "v1.2.3"
-  validations:
-    required: true
+    id: resource-version
+    attributes:
+      label: "Resource Version"
+      description: "The version of the resource being used. You can find this in the fxmanifest."
+      placeholder: "v1.2.3"
+    validations:
+      required: true
   - type: input
     id: server-version
     attributes:
